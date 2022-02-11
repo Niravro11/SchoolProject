@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+<title> Endangered species </title>
+
+</head>
+
+<body style = "background color:FFFF00">
+
+<img src="Bird.jpg" style= "align:top;width:100%;height:50%">
+
+<h1 style= "color:blue"> Endangered Species </h1> <br>
+<p> An endangered species is a species that is very likely to become extinct in the near future, either worldwide or in a particular political jurisdiction. Endangered species may be at risk due to factors such as habitat loss, poaching and invasive species. The International Union for Conservation of Nature (IUCN) Red List lists the global conservation status of many species, and various other agencies assess the status of species within particular areas. Many nations have laws that protect conservation-reliant species which, for example, forbid hunting, restrict land development, or create protected areas. Some endangered species are the target of extensive conservation efforts such as captive breeding and habitat restoration.
+</p>
+
+<h2 style= "color:red"> House Sparrow </h2> <br>
+<p>
+The house sparrow is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm and a mass of 24–39.5 g. Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings.
+</p>
+
+<h2 style= "color:red"> Reasons for dislocation of sparrows <h2>
+
+ <p><b><i>The reasons for the decline of the sparrow population are loss of habitat due to rapid urbanisation, diminishing ecological resources for sustenance, high levels of pollution and emissions from microwave towers
+<p></b></i>
+
+</body>
+
+</html>
+
